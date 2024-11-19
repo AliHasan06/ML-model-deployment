@@ -10,7 +10,7 @@ trans_dict = {'Manual': 0, 'Automatic': 1}
 engine_type_dic = {'LPG': 1, 'Diesel': 2, 'Petrol': 3}
 owner_dict = {'First Owner': 1, 'Second Owner': 2, 'Third Owner': 3, 'Fourth & Above Owner': 4, 'Test Drive Car': 0}
 
-# Model
+
 #Model dict
 ModelDictionary = {
     '3 Series 320d GT Luxury Line': 0,
